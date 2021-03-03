@@ -1,5 +1,5 @@
 # DeepTor
-This repository is all the code for expanding upon the work by Lagerquist et al. [(2020)](https://journals.ametsoc.org/view/journals/mwre/148/7/mwrD190372.xml).  
+This repository is all the code for expanding upon the work by [Lagerquist et al. (2020)](https://journals.ametsoc.org/view/journals/mwre/148/7/mwrD190372.xml).  
 
 ## Getting Started
 1. In a terminal window, clone this repository to your local machine with the command
