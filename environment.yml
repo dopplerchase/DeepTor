@@ -1,4 +1,4 @@
-name: ai2es
+name: deeptor
 channels:
   - conda-forge
 dependencies:
